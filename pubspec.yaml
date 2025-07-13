@@ -37,6 +37,7 @@ dependencies:
   url_launcher: ^6.3.1
   shared_preferences: ^2.2.3
   smooth_page_indicator: ^1.1.0
+  google_fonts: ^6.2.1
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -72,7 +73,11 @@ flutter:
     - assets/ab.gif 
     - assets/ac.gif
     - assets/ad.gif
-    - assets/ae.gif 
+    - assets/ae.gif
+    - assets/af.gif
+    - assets/ag.gif
+    - assets/ah.gif
+
 
 # Konfigurasi untuk flutter_launcher_icons
 flutter_launcher_icons:

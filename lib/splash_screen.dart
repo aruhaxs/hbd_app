@@ -13,8 +13,8 @@ class SplashScreen extends StatefulWidget {
 
 class _SplashScreenState extends State<SplashScreen> {
 
-  final int birthdayMonth = 7;
-  final int birthdayDay = 13;
+  final int birthdayMonth = 8;
+  final int birthdayDay = 2;
 
   @override
   void initState() {
